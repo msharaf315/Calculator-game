@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at calcgame.v(61): always construct contains both blocking and non-blocking assignments File: C:/altera_lite/15.1/Calculator game/calcgame.v Line: 61
+Warning (10268): Verilog HDL information at calcgame.v(92): always construct contains both blocking and non-blocking assignments File: C:/altera_lite/15.1/Calculator game/calcgame.v Line: 92
